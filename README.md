@@ -176,6 +176,7 @@ _Apps that showcase the power of the Frappe Framework_
 - [renovation_core.dart](https://github.com/leam-tech/renovation_core.dart) - The Frappe Dart/Flutter Front End SDK.
 - [Semgrep Rules](https://github.com/frappe/semgrep-rules) - Semgrep Rules for following the best practices while building your Frappe Apps.
 - [TypeScript Type generator](https://github.com/nikkothari22/frappe-types) -  Typescript type definition generator for Frappe DocTypes
+- [Doppio](https://github.com/NagariaHussain/doppio) - A Frappe App to setup and manage single page applications (using Vue 3 or React) on any other custom Frappe App.
 
 ### Deployment Tools
 
